@@ -1,2 +1,2 @@
-# MSMR : Multi-Scale Multimodal Learning for Efficient Survival Prediction in Computational Pathology
+# MSMR : Multi-Scale Multimodal Representation for Enhanced Survival Prediction in Computational
 This is the code for MSMR
