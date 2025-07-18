@@ -1,0 +1,2 @@
+bag_size_train,surv_loss_train,loss_train,c_index_train,bag_size_test,surv_loss_test,loss_test,c_index_test
+16.0,202478.484375,202478.484375,0.9951397326852977,16.0,12044.3505859375,12044.3505859375,0.7816500711237553
