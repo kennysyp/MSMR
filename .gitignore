@@ -2,7 +2,6 @@
 **/embeddings/
 **/wandb/
 .ipynb_checkpoints
-src/results/
 .DS_Store
 .vscode
 
